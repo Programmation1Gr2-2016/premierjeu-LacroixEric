@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/elacroix/Google Drive/Cegep/Programation1/Monogame/premierjeu-LacroixEric/JeuEricLacroix2/Exercice01/JeuFinal/AuPaysDesCowboys/Content/Sounds/galop.wav</File>
+    <File>C:/Users/elacroix/Google Drive/Cegep/Programation1/Monogame/premierjeu-LacroixEric/JeuEricLacroix2/Exercice01/JeuFinal/AuPaysDesCowboys/Content/Sounds/appache.wav</File>
+    <File>C:/Users/elacroix/Google Drive/Cegep/Programation1/Monogame/premierjeu-LacroixEric/JeuEricLacroix2/Exercice01/JeuFinal/AuPaysDesCowboys/Content/Sounds/fleche.wav</File>
+    <File>C:/Users/elacroix/Google Drive/Cegep/Programation1/Monogame/premierjeu-LacroixEric/JeuEricLacroix2/Exercice01/JeuFinal/AuPaysDesCowboys/Content/Sounds/themeJeu.wav</File>
+    <File>C:/Users/elacroix/Google Drive/Cegep/Programation1/Monogame/premierjeu-LacroixEric/JeuEricLacroix2/Exercice01/JeuFinal/AuPaysDesCowboys/Content/Sounds/revolver.wav</File>
+    <File>C:/Users/elacroix/Google Drive/Cegep/Programation1/Monogame/premierjeu-LacroixEric/JeuEricLacroix2/Exercice01/JeuFinal/AuPaysDesCowboys/Content/Sounds/mortC.wav</File>
+    <File>C:/Users/elacroix/Google Drive/Cegep/Programation1/Monogame/premierjeu-LacroixEric/JeuEricLacroix2/Exercice01/JeuFinal/AuPaysDesCowboys/Content/Sounds/rire.mp3</File>
+    <File>C:/Users/elacroix/Google Drive/Cegep/Programation1/Monogame/premierjeu-LacroixEric/JeuEricLacroix2/Exercice01/JeuFinal/AuPaysDesCowboys/Content/Sounds/cri.wav</File>
+    <File>C:/Users/elacroix/Google Drive/Cegep/Programation1/Monogame/premierjeu-LacroixEric/JeuEricLacroix2/Exercice01/JeuFinal/AuPaysDesCowboys/Content/Sounds/mortCowboy.wav</File>
+    <File>C:/Users/elacroix/Google Drive/Cegep/Programation1/Monogame/premierjeu-LacroixEric/JeuEricLacroix2/Exercice01/JeuFinal/AuPaysDesCowboys/Content/Sounds/mortIndien.wav</File>
+    <File>C:/Users/elacroix/Google Drive/Cegep/Programation1/Monogame/premierjeu-LacroixEric/JeuEricLacroix2/Exercice01/JeuFinal/AuPaysDesCowboys/Content/Sounds/win.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>

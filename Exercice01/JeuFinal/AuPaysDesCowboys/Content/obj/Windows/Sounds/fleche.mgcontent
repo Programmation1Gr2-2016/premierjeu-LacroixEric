@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/elacroix/Google Drive/Cegep/Programation1/Monogame/premierjeu-LacroixEric/JeuEricLacroix2/Exercice01/JeuFinal/AuPaysDesCowboys/Content/Sounds/fleche.wav</SourceFile>
+  <SourceTime>2016-11-20T14:05:59.3804979-05:00</SourceTime>
+  <DestFile>C:/Users/elacroix/Google Drive/Cegep/Programation1/Monogame/premierjeu-LacroixEric/JeuEricLacroix2/Exercice01/JeuFinal/AuPaysDesCowboys/Content/bin/Windows/Sounds/fleche.xnb</DestFile>
+  <DestTime>2016-11-24T00:14:01.082053-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2016-03-30T02:36:08-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2016-03-30T02:36:08-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -5,7 +5,9 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciceJeux", "Exercice01\ExerciceJeux.csproj", "{0CEEBAE1-EBF3-448B-A258-F5E796FA01B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciceJeux2", "ExerciceJeux2\ExerciceJeux2.csproj", "{79F516B7-DBF1-4556-8526-746838C1E205}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuPaysDesCowboys", "JeuFinal\AuPaysDesCowboys\AuPaysDesCowboys.csproj", "{75EAECD2-2E24-4ADF-8290-94F711D4C151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeuAnime", "JeuAnime\JeuAnime.csproj", "{904079F2-CCEE-48F4-8E52-91987F44E37E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +19,14 @@ Global
 		{0CEEBAE1-EBF3-448B-A258-F5E796FA01B2}.Debug|x86.Build.0 = Debug|x86
 		{0CEEBAE1-EBF3-448B-A258-F5E796FA01B2}.Release|x86.ActiveCfg = Release|x86
 		{0CEEBAE1-EBF3-448B-A258-F5E796FA01B2}.Release|x86.Build.0 = Release|x86
-		{79F516B7-DBF1-4556-8526-746838C1E205}.Debug|x86.ActiveCfg = Debug|x86
-		{79F516B7-DBF1-4556-8526-746838C1E205}.Debug|x86.Build.0 = Debug|x86
-		{79F516B7-DBF1-4556-8526-746838C1E205}.Release|x86.ActiveCfg = Release|x86
-		{79F516B7-DBF1-4556-8526-746838C1E205}.Release|x86.Build.0 = Release|x86
+		{75EAECD2-2E24-4ADF-8290-94F711D4C151}.Debug|x86.ActiveCfg = Debug|x86
+		{75EAECD2-2E24-4ADF-8290-94F711D4C151}.Debug|x86.Build.0 = Debug|x86
+		{75EAECD2-2E24-4ADF-8290-94F711D4C151}.Release|x86.ActiveCfg = Release|x86
+		{75EAECD2-2E24-4ADF-8290-94F711D4C151}.Release|x86.Build.0 = Release|x86
+		{904079F2-CCEE-48F4-8E52-91987F44E37E}.Debug|x86.ActiveCfg = Debug|x86
+		{904079F2-CCEE-48F4-8E52-91987F44E37E}.Debug|x86.Build.0 = Debug|x86
+		{904079F2-CCEE-48F4-8E52-91987F44E37E}.Release|x86.ActiveCfg = Release|x86
+		{904079F2-CCEE-48F4-8E52-91987F44E37E}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
